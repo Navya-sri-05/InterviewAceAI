@@ -129,7 +129,7 @@ FLASK_SECRET_KEY=your-strong-random-secret-key
 4. Copy the **Project ID** and paste it into `.env`
 
 ### 5. Run the application
-
+This project requires a valid IBM watsonx.ai API Key and Project ID. Create a .env file from .env.example and provide your own IBM credentials before running the application.
 ```bash
 python app.py
 ```
