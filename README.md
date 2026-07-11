@@ -45,13 +45,9 @@ Practice HR, Technical, and Behavioral interviews with personalised questions, i
   - Company Practice (bar chart)
 
 ### UI/UX
-- **Dark Mode** — Toggle persists via localStorage; respects OS preference on first load
-- **Answer Tips Panel** — Collapsible context-sensitive tips (Technical / HR / Behavioral)
-- **Export Report** — Download a self-contained HTML report for any evaluated answer
-- **Searchable Job Role Combobox** — 50+ roles across 6 categories with keyboard navigation
-- **Button Lock** — All controls disabled during IBM Granite API calls
-- **Toast Notifications** — Non-blocking feedback for all actions
-- **Responsive Design** — Mobile-first layout, works on all screen sizes
+- **Searchable Job Role Combobox** — 50+ predefined technology roles with search functionality and an "Other" option for custom roles
+- **Button Lock** — All controls disabled during IBM Granite API calls to prevent duplicate requests
+- **Responsive Design** — Mobile-friendly interface that adapts to different screen sizes
 
 ---
 
